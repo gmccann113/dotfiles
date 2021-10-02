@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gmccann113 gmccann113@gmail.com
+	name = Graham McCann gmccann113@gmail.com
